@@ -1,5 +1,7 @@
 # Robodog-Sparky
 
+**Aşağıda kodda kullanılan bazı mekaniklerin açıklaması verilmiştir
+
 ## class motor_set
   -Motor pin bilgisini tutar
   -Her motor için kalbirasyon noktasını tutar
@@ -21,3 +23,13 @@
   - Ayak uçlarını istenilen konuma açı verisi alınmadan kendisi hesaplayarak götürür
     
   ![F7SP026KKJQ5SRL](https://github.com/yusufutkurak/Robodog-Sparky/assets/107929430/137f41aa-8408-4518-a000-63a4fb4cac94)
+
+  
+
+
+https://github.com/yusufutkurak/Robodog-Sparky/assets/107929430/a075920b-9eeb-4e6a-8e83-480cd0772d91
+
+
+
+https://github.com/yusufutkurak/Robodog-Sparky/assets/107929430/b785e320-40b3-48dc-9114-7a2d12477ccb
+
