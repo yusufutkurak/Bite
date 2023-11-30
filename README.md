@@ -27,9 +27,13 @@
   
 
 
-https://github.com/yusufutkurak/Robodog-Sparky/assets/107929430/a075920b-9eeb-4e6a-8e83-480cd0772d91
+
+
+https://github.com/yusufutkurak/Robodog-Sparky/assets/107929430/54608479-f084-4736-90ec-1a9ac12f358a
 
 
 
-https://github.com/yusufutkurak/Robodog-Sparky/assets/107929430/b785e320-40b3-48dc-9114-7a2d12477ccb
+https://github.com/yusufutkurak/Robodog-Sparky/assets/107929430/0cc8157b-4b32-473c-8547-35fdec3f7a58
+
+
 
